@@ -1,12 +1,12 @@
-背景知识
+背景介绍
 ===============================================
 
-What is WSL?
+什么是 WSL?
 ------------
 
-WSL is a full Ubuntu operating system that you can install on your Windows 10 machine.
+WSL 是一个运行在 Window 10 系统之上的， 完整的 Ubuntu 操作系统。
 
-It's Beta Software
+它还处在测试(Beta) 阶段
 ------------------
 
 Please keep in mind that this is beta software. This means that any part of it is subject to change, as feedback is collected and improvements are made based on community feedback.

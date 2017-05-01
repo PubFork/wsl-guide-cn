@@ -1,33 +1,34 @@
 安装 WSL (Bash on Ubuntu on Windows)
 ==========================================
 
-This document provides step-by-step instructions for installing WSL on your Windows machine. 
+本文档提供了在 Windows 系统上安装 WSL 的详细步骤。
 
-第一步: 激活开发者模式
+第一步: 打开开发者模式
 -----------------------------
 
-The first thing you need to do is enable developer mode on your Windows machine. 
+首先， 你需要打开你的 Windows 电脑的 *开发人员模式*。
 
-Go to **Settings -> Update and Security -> For developers**, and click "Developer mode". 
+依次访问 **设置 -> 更新和安全 -> 针对开发人员**, 然后点击打开右侧的  "开发人员模式" 。 
 
-Step 2: Install WSL
+第二步: 安装 WSL
 -------------------
 
-Next, you need to install WSL. 
+接着, 你需要安装 WSL 。
 
-Go to the Start Menu and search for "turn windows features on or off". 
-Select that, then check the "Windows Subsystem for Linux (Beta)" checkbox. 
+在开始菜单里， 搜索 "启用或关闭Windows功能"， 打开对应的控制面板， 勾选名为 "Windows Subsystem for Linux (Beta)" 的多选框。
 
-Hit OK. Restart your computer. 
+点击确定， 并重启你的电脑。
 
-Step 3: Create a Unix Account
+第三步: 创建一个 Unix 账户
 -----------------------------
 
-Next, we need to activate WSL from the command-line. Open up a Command Prompt and run the following command::
+然后, 我们需要在命令行里激活 WSL 。 打开一个命令行(Command Prompt) 并执行如下命令::
 
     > bash
 
-This will setup your Linux environment on Windows! If you see a blank screen at any point during this process, hit enter, and you'll be prompted to create a new username for your Linux account.
+这一步会在你的 Window 电脑上配置 Linux 环境。安装完成后，会提示你设置用户名和密码。
 
-Step 4: Enjoy!
---------------
+译者注: 在中国大陆， 由于众所周知的网络原因， 这一步可能会花比较长的时间，甚至失败(进度条卡死)。 请翻墙或重试本步骤。
+
+第四步: 好好享受你的 Linux 吧!
+--------------------------

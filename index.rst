@@ -3,12 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-The Windows Subsystem for Linux Guide!
-======================================
+Windows Subsystem for Linux (WSL) 最佳实践指南!
+================================================
 
-Greetings, Earthling! Welcome to The Hitchhiker’s Guide to the Windows Subsystem for Linux (WSL).
+大家好! 欢迎来到 Windows Subsystem for Linux (WSL) 最佳实践指南。
 
-**This is a living, breathing guide**. If you’d like to contribute, `fork us on GitHub <https://github.com/kennethreitz/wsl-guide>`_!
+**本指南还在不断地更新与完善中**, 其内容翻译自 Kenneth Reitz 的英文版指南: `wsl-guide <https://github.com/kennethreitz/wsl-guide>`_。 如果你想要帮助翻译本指南, `欢迎来 GitHub fork 我 <https://github.com/glasslion/wsl-guide-cn>`_， 提交你的贡献吧!
 
 This handcrafted guide exists to provide both novice and expert Windows and Linux developers a best practice handbook to the installation, configuration, and usage of WSL (Bash on Ubuntu on Windows) on a daily basis.
 

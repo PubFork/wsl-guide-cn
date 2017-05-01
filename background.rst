@@ -1,4 +1,4 @@
-Background on WSL (Windows Subsystem for Linux)
+背景知识
 ===============================================
 
 What is WSL?

@@ -1,4 +1,4 @@
-GUI Applications
+图形界面
 ================
 
 Step 1: Installing an X Server

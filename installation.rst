@@ -1,9 +1,9 @@
-Installing WSL (Bash on Ubuntu on Windows)
+安装 WSL (Bash on Ubuntu on Windows)
 ==========================================
 
 This document provides step-by-step instructions for installing WSL on your Windows machine. 
 
-Step 1: Enable Developer Mode
+第一步: 激活开发者模式
 -----------------------------
 
 The first thing you need to do is enable developer mode on your Windows machine. 

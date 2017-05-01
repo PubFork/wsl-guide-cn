@@ -1,4 +1,4 @@
-Updating WSL
+更新 WSL
 ============
 
 Updating Packages in WSL

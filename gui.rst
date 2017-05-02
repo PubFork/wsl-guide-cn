@@ -1,18 +1,18 @@
 图形界面
 ================
 
-Step 1: Installing an X Server
+第一步: 安装 X Server
 ------------------------------
 
-In order to run GUI applications in WSL, you need to first install an X Server on your Windows machine. 
-I recommend installing `Xming <https://sourceforge.net/projects/xming/>`_. 
+想要在 WSL 里运行带图形界面的应用程序的话, 你首先需要在你的 Windows 电脑上安装一个 X Server. 
+我推荐使用 `Xming <https://sourceforge.net/projects/xming/>`_. 
 
-Step 2: Set DISPLAY Environment Variable
+第二步: 设置 DISPLAY 环境变量
 ----------------------------------------
 
-Next, you have to tell your WSL environment to use the X Server by setting the ``DISPLAY`` environment variable. 
+然后， 你需要通过 ``DISPLAY`` 这个环境变量来告诉你的 WSL 环境来时用你安装的 X Server。
 
-I added the following to my ``~/.bashrc``::
+在 ``~/.bashrc`` 里添加如下内容即可::
 
     export DISPLAY=:0
 

@@ -24,10 +24,10 @@
 | index.rst        | 首页           | ![Progress](http://progressed.io/bar/100?title=Done) |
 | background.rst   | 背景介绍       | ![Progress](http://progressed.io/bar/40)             |
 | installation.rst | 安装 WSL       | ![Progress](http://progressed.io/bar/100?title=Done) |
-| update.rst       | 更新 WSL       |                                                      |
-| gotchas.rst      |                |                                                      |
-| gui.rst          | 图形界面       |                                                      |
-| packages.rst     | 有意思的软件包 |                                                      |
+| update.rst       | 更新 WSL       | ![Progress](http://progressed.io/bar/100?title=Done) |
+| gotchas.rst      | 常见问题解答   | ![Progress](http://progressed.io/bar/50) |
+| gui.rst          | 图形界面       | ![Progress](http://progressed.io/bar/100?title=Done) |
+| packages.rst     | 有意思的软件包 | ![Progress](http://progressed.io/bar/100?title=Done) |
 
 # 构建
 

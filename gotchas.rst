@@ -1,16 +1,16 @@
 
-Common Gotchas
+常见问题解答
 ==============
 
-VIM Arrow Keys Don't Work
+VIM 里方向键不管用了
 -------------------------
 
-You may notice that by default, VIM's arrow keys don't work on your computer. To fix this, add the following to your ``~/.vimrc``::
+你可能会注意到, 默认情况下 WSL 里的 Vim 的方向键不工作了。要修复这个故障， 你需要在你的 ``~/.vimrc`` 里添加如下内容::
 
     $ cat ~/.vimrc
     set term=builtin_ansi
 
-Sudo 'Unable to Resolve Host' Warning
+Sudo 时会显示 'Unable to Resolve Host' 这样的警告
 -------------------------------------
 
 You may notice that every time you run ``sudo something``, your system complains that it cannot resolve it's own hostname, but then continues on anyway. To fix this annoyance, you need to add your system's hostname to ``/etc/hosts``::
